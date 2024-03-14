@@ -1,0 +1,2 @@
+[GIN-debug] GET    /admin/getData            --> main.getData (4 handlers)
+[GIN-debug] GET    /client/getQueryString    --> main.getQueryString (3 handlers)
